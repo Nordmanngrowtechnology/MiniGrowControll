@@ -1,2 +1,3 @@
 .pio
-.env
+src/env.h
+.idea
