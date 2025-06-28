@@ -42,14 +42,14 @@ programmierbare GPIO-Pins für Interrupt-Ausgaben
 EAN: 4251755810444
 
 # MECHANIC
-T8 Trapezgewindespindel Leitspindel
-NSK Halterungen für Schraubenwellen für 8 mm Wellen-Ø
-C5-Kugelumlaufspindel SFU1605
-Schneckenradgetriebe mit Encoderscheibe 12 Volt
+Gleichstrom
+*** C5-Kugelumlaufspindel SFU1605
 
-Sbr16 1500mm Linearführung Set Linearwelle Rail
+*** Schneckenradgetriebe mit Encoderscheibe 12 Volt
+
+
+Linearführung - Rohr 10 x 1,5 mm Leitungsrohr matt V2A
 SCS10UU Linearlager für 10mm Wellen
-Edelstahl Rundrohr 10,0x1,5mm 1500mm
 
 
 
