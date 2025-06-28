@@ -19,7 +19,11 @@ UART, SPI, SDIO, I2C, PWM, I2S, IR, ADC, DAC
 # PUMP
 4 * 1000L/H DC 12V 1,5 A 18Watt
 
+
 # Peripherals
+
+<img alt="ToFangele.png" src="images/ToFangele.png" title="ToF Angle" width="341"/>
+
 #### 4 * Time-Of-Flight VL6180X TOF0050C 3-5Volt
 ###### I2C Hub required
 Benewake TFmini-S
