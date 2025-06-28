@@ -65,3 +65,8 @@ SPI Flash SD Karte - XTSD 512MB - NAND Flash Speichermodul - Adafruit 4899 EAN:4
 | Relay Card      | 1      |         |      | 1 GPIO    | 12       |
 | I2C Hub         | 1      |         |      |           |          |
 | Lampen Antrieb  | 1      | 12      |      |           |          |
+
+
+# Discussion
+https://www.mikrocontroller.net/topic/578744
+
